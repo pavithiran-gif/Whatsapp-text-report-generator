@@ -1,4 +1,4 @@
-# Whatsapp-text-report-generator
+# WhatsApp-text-report-generator
 ### Introduction
 
 <p align="justify">
